@@ -1,0 +1,17 @@
+Media Queries:
+  - Breakpoints Bootstrap:
+    -> Pequeños: 576px
+    -> Medianos: 768px
+    -> Grandes: 992px
+    -> XGrandes: 1200px
+
+CSS Grids:
+  - Container:
+    -> display: grid;
+    -> grid-template-columns: repeat(3, 1fr);
+    -> grid-gap: 20px 50px; (fila col)
+  - Items:
+    -> grid-column: span Nº;
+
+Imágenes responsivas:
+  - 
