@@ -9,7 +9,7 @@ The breakpoints used are:
   - Extra large devices: 1200px;
 
 The grid is set for work with 12 columns, and you can use it with the CSS classes below:
-  - col-xs-[ Nº Columns ]: Extra Small devices
+  - col-[ Nº Columns ]: Extra Small devices
   - col-sm-[ Nº Columns ]: Small devices
   - col-md-[ Nº Columns ]: Medium devices
   - col-lg-[ Nº Columns ]: Large devices
